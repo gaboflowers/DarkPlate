@@ -159,14 +159,18 @@ cv::Mat process_frame(DarkHelp::NN & nn, cv::Mat & frame)
 	cv::Mat output_frame = frame.clone();
 
 	// we need to find all the license plates in the image
+    std::cout << "Will predict" << std::endl;
 	auto result = nn.predict(frame);
 	for (const auto & prediction : result)
 	{
 		// at this stage we're only interested in the "license plate" class, ignore everything else
 		if (prediction.best_class == class_plate)
 		{
+            std::cout << "Will process plate" << std::endl;
 			process_plate(nn, frame, prediction, output_frame);
-		}
+		} else {
+            std::cout << "No plate found" << std::endl;
+        }
 	}
 
 	return output_frame;
@@ -250,6 +254,61 @@ void process(DarkHelp::NN & nn, const std::string & filename)
 	return;
 }
 
+void process_image(DarkHelp::NN & nn, const std::string & filename)
+{
+	std::cout << "Processing image file \"" << filename << "\"" << std::endl;
+
+	std::string basename = filename;
+	size_t p = basename.rfind("/");
+	if (p != std::string::npos)
+	{
+		basename.erase(0, p + 1);
+	}
+	p = basename.rfind(".");
+	if (p != std::string::npos)
+	{
+		basename.erase(p);
+	}
+
+    cv::Mat image = cv::imread(filename, cv::IMREAD_COLOR);
+    if (image.empty()) {
+        std::cout << "ERROR \"" << filename << "\" could not be loaded. Does it exist?" << std::endl;
+        return;
+    }
+
+    const double width = image.size().width;
+    const double height = image.size().height;
+    std::cout << "-> " << static_cast<size_t>(width) << " x " << static_cast<size_t>(height) << std::endl;
+
+    if (width < network_size.width or height < network_size.height) {
+        std::cout << "ERROR: \"" << filename << "\" [" << width << " x " << height << "] is smaller than the network size " << network_size << "!" << std::endl;
+        return;
+    }
+
+
+    const auto t1 = std::chrono::high_resolution_clock::now();
+
+    cv::imshow("Source", image);
+    cv::waitKey(1000);
+
+    std::cout << "Will process image" << std::endl;
+    auto output_frame = process_frame(nn, image);
+    std::cout << "Image processed" << std::endl;
+
+    const auto t2 = std::chrono::high_resolution_clock::now();
+
+    // "steal" the duration format function in DarkHelp
+    draw_label(DarkHelp::duration_string(t2 - t1), output_frame, cv::Point(0, 0), 0.5);
+
+    cv::imshow(basename, output_frame);
+    cv::waitKey(5);
+
+	std::cout << "\r-> done processing " << filename << std::endl;
+
+	return;
+}
+
+
 
 int main(int argc, char *argv[])
 {
@@ -296,9 +355,20 @@ int main(int argc, char *argv[])
 		// remember the size of the network, since we'll need to crop plates to this exact size
 		network_size = nn.network_size();
 
-		for (int idx = 1; idx < argc; idx ++)
+        int idx = 1;
+        int video = 1;
+        if (argc > 1 && !std::strcmp(argv[1], "-im")) {
+            idx = 2;
+            video = 0;
+        } 
+
+		for (; idx < argc; idx ++)
 		{
-			process(nn, argv[idx]);
+            if (video) {
+    			process(nn, argv[idx]);
+            } else {
+                process_image(nn, argv[idx]);
+            }
 		}
 	}
 	catch (const std::exception & e)
