@@ -161,8 +161,10 @@ cv::Mat process_frame(DarkHelp::NN & nn, cv::Mat & frame)
 	// we need to find all the license plates in the image
     std::cout << "Will predict" << std::endl;
 	auto result = nn.predict(frame);
+    int entered = 0;
 	for (const auto & prediction : result)
 	{
+        entered = 1;
 		// at this stage we're only interested in the "license plate" class, ignore everything else
 		if (prediction.best_class == class_plate)
 		{
@@ -172,6 +174,9 @@ cv::Mat process_frame(DarkHelp::NN & nn, cv::Mat & frame)
             std::cout << "No plate found" << std::endl;
         }
 	}
+    if (!entered) {
+        std::cout << "No predictions" << std::endl;
+    }
 
 	return output_frame;
 }
