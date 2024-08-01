@@ -1,0 +1,1136 @@
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152221.jpg -> creating RoI from [x=1379 y=1575 w=522 h=522]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152221.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002673.jpg [f=0.858301 x=1379 y=1575 w=522 h=522] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152221.jpg -> creating RoI from [x=2792 y=1348 w=1101 h=1101]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152221.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002674.jpg [f=1.81103 x=2792 y=1348 w=1101 h=1101] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152221.jpg -> creating RoI from [x=1476 y=1164 w=1424 h=1424]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152221.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002675.png [f=2.34291 x=1476 y=1164 w=1424 h=1424] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152221.jpg -> skipped RoI [x=1237 y=1165 w=895 h=895] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152221.jpg -> creating RoI from [x=3293 y=558 w=661 h=661]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152221.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002676.jpg [f=1.08781 x=3293 y=558 w=661 h=661] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152221.jpg-> adding RoI because it includes point-of-interest x=2154 y=1147
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152221.jpg -> creating RoI from [x=1328 y=630 w=1496 h=1496]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152221.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002677.jpg [f=2.46061 x=1328 y=630 w=1496 h=1496] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152221.jpg -> skipped RoI [x=1226 y=956 w=1584 h=1584] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152221.jpg -> skipped RoI [x=925 y=678 w=1661 h=1661] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152221.jpg -> creating RoI from [x=3923 y=1239 w=693 h=693]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152221.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002678.png [f=1.13965 x=3923 y=1239 w=693 h=693] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152221.jpg -> skipped RoI [x=2555 y=257 w=1822 h=1822] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152221.jpg -> skipped RoI [x=277 y=235 w=2273 h=2273] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152221.jpg -> skipped RoI [x=649 y=6 w=2582 h=2582] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152221.jpg -> creating RoI from [x=3964 y=957 w=562 h=562]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152221.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002679.jpg [f=0.924539 x=3964 y=957 w=562 h=562] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152221.jpg -> skipped RoI [x=904 y=251 w=2256 h=2256] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152221.jpg -> skipped RoI [x=1408 y=715 w=1538 h=1538] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152221.jpg -> skipped RoI [x=423 y=300 w=2119 h=2119] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152221.jpg -> skipped RoI [x=2483 y=867 w=537 h=537] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152221.jpg -> creating RoI from [x=240 y=177 w=1845 h=1845]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152221.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002680.png [f=3.03415 x=240 y=177 w=1845 h=1845] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152221.jpg -> skipped RoI [x=1224 y=249 w=2324 h=2324] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152221.jpg -> skipped RoI [x=1815 y=111 w=1715 h=1715] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152221.jpg -> skipped RoI [x=1499 y=14 w=2582 h=2582] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152221.jpg -> skipped RoI [x=1949 y=502 w=1893 h=1893] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152221.jpg -> skipped RoI [x=2387 y=168 w=1959 h=1959] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152232.jpg -> creating RoI from [x=1880 y=439 w=2057 h=2057]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152232.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002681.jpg [f=3.38264 x=1880 y=439 w=2057 h=2057] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152232.jpg -> skipped RoI [x=2543 y=385 w=1523 h=1523] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152232.jpg -> creating RoI from [x=1229 y=1788 w=657 h=657]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152232.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002682.png [f=1.08086 x=1229 y=1788 w=657 h=657] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152232.jpg -> skipped RoI [x=1505 y=317 w=2135 h=2135] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152232.jpg -> creating RoI from [x=786 y=349 w=2135 h=2135]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152232.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002683.jpg [f=3.51186 x=786 y=349 w=2135 h=2135] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152232.jpg -> creating RoI from [x=299 y=1670 w=835 h=835]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152232.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002684.png [f=1.37363 x=299 y=1670 w=835 h=835] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152232.jpg -> skipped RoI [x=1767 y=177 w=2196 h=2196] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152232.jpg -> skipped RoI [x=788 y=48 w=2438 h=2438] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152232.jpg -> skipped RoI [x=1820 y=191 w=2109 h=2109] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152232.jpg -> skipped RoI [x=2253 y=1169 w=604 h=604] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152232.jpg -> skipped RoI [x=1518 y=1672 w=568 h=568] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152250.jpg -> creating RoI from [x=2843 y=1489 w=1032 h=1032]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152250.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002685.jpg [f=1.69664 x=2843 y=1489 w=1032 h=1032] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152250.jpg -> creating RoI from [x=2011 y=634 w=543 h=543]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152250.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002686.png [f=0.893148 x=2011 y=634 w=543 h=543] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152250.jpg-> adding RoI because it includes point-of-interest x=2527 y=1213
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152250.jpg -> creating RoI from [x=2231 y=816 w=1784 h=1784]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152250.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002687.jpg [f=2.93441 x=2231 y=816 w=1784 h=1784] -> [608x608] [3/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152250.jpg -> skipped RoI [x=3145 y=1531 w=634 h=634] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152250.jpg -> creating RoI from [x=1544 y=1346 w=705 h=705]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152250.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002688.jpg [f=1.16025 x=1544 y=1346 w=705 h=705] -> [608x608] [5/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152250.jpg -> creating RoI from [x=913 y=428 w=729 h=729]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152250.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002689.jpg [f=1.19979 x=913 y=428 w=729 h=729] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152250.jpg-> adding RoI because it includes point-of-interest x=1638 y=1246
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152250.jpg -> creating RoI from [x=1157 y=664 w=1886 h=1886]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152250.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002690.png [f=3.10116 x=1157 y=664 w=1886 h=1886] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152250.jpg -> skipped RoI [x=2579 y=519 w=1917 h=1917] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152250.jpg -> creating RoI from [x=3015 y=85 w=522 h=522]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152250.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002691.jpg [f=0.857762 x=3015 y=85 w=522 h=522] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152250.jpg -> skipped RoI [x=958 y=16 w=2574 h=2574] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152250.jpg -> skipped RoI [x=2259 y=359 w=638 h=638] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152250.jpg -> skipped RoI [x=669 y=208 w=2376 h=2376] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152250.jpg -> skipped RoI [x=2009 y=15 w=1971 h=1971] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152250.jpg -> skipped RoI [x=254 y=356 w=2248 h=2248] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152341.jpg -> creating RoI from [x=1466 y=28 w=2498 h=2498]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152341.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002692.png [f=4.10793 x=1466 y=28 w=2498 h=2498] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152341.jpg -> skipped RoI [x=3026 y=1664 w=848 h=848] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152341.jpg -> skipped RoI [x=1981 y=1303 w=1059 h=1059] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152341.jpg -> skipped RoI [x=3229 y=93 w=990 h=990] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152341.jpg -> skipped RoI [x=1400 y=1389 w=495 h=495] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152341.jpg -> skipped RoI [x=2537 y=1413 w=1156 h=1156] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152349.jpg -> creating RoI from [x=2543 y=656 w=1698 h=1698]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152349.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002693.png [f=2.7931 x=2543 y=656 w=1698 h=1698] -> [608x608] [3/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152349.jpg-> adding RoI because it includes point-of-interest x=2297 y=1195
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152349.jpg -> creating RoI from [x=1946 y=332 w=1795 h=1795]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152349.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002694.jpg [f=2.95201 x=1946 y=332 w=1795 h=1795] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152349.jpg -> skipped RoI [x=1327 y=1139 w=1346 h=1346] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152349.jpg -> skipped RoI [x=2796 y=1438 w=1122 h=1122] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152349.jpg -> creating RoI from [x=367 y=29 w=2332 h=2332]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152349.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002695.jpg [f=3.8349 x=367 y=29 w=2332 h=2332] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152349.jpg -> skipped RoI [x=1575 y=301 w=2295 h=2295] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152349.jpg -> skipped RoI [x=1231 y=18 w=1822 h=1822] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152349.jpg -> skipped RoI [x=2334 y=409 w=619 h=619] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152349.jpg -> skipped RoI [x=428 y=330 w=2187 h=2187] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152349.jpg -> skipped RoI [x=800 y=125 w=1540 h=1540] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152406.jpg -> creating RoI from [x=2512 y=69 w=1751 h=1751]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152406.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002696.jpg [f=2.88014 x=2512 y=69 w=1751 h=1751] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152406.jpg -> creating RoI from [x=710 y=140 w=2416 h=2416]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152406.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002697.png [f=3.97336 x=710 y=140 w=2416 h=2416] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152406.jpg -> skipped RoI [x=413 y=113 w=2345 h=2345] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152406.jpg -> skipped RoI [x=2001 y=119 w=1053 h=1053] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152406.jpg -> skipped RoI [x=988 y=316 w=1909 h=1909] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152406.jpg -> skipped RoI [x=1817 y=672 w=944 h=944] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152406.jpg -> skipped RoI [x=2792 y=790 w=568 h=568] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152419.jpg -> creating RoI from [x=1778 y=351 w=1792 h=1792]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152419.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002698.jpg [f=2.94785 x=1778 y=351 w=1792 h=1792] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152419.jpg -> skipped RoI [x=2037 y=466 w=1907 h=1907] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152419.jpg -> skipped RoI [x=1903 y=663 w=1728 h=1728] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152419.jpg -> skipped RoI [x=2458 y=293 w=715 h=715] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152419.jpg -> creating RoI from [x=469 y=300 w=2185 h=2185]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152419.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002699.jpg [f=3.59431 x=469 y=300 w=2185 h=2185] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152419.jpg -> creating RoI from [x=3660 y=1768 w=772 h=772]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152419.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002700.png [f=1.27019 x=3660 y=1768 w=772 h=772] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152419.jpg -> skipped RoI [x=1784 y=455 w=784 h=784] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152419.jpg -> skipped RoI [x=118 y=637 w=1960 h=1960] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152419.jpg -> skipped RoI [x=1328 y=1211 w=1350 h=1350] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152419.jpg -> skipped RoI [x=353 y=495 w=1708 h=1708] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152419.jpg -> skipped RoI [x=950 y=432 w=1380 h=1380] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152431.jpg -> creating RoI from [x=927 y=53 w=2551 h=2551]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152431.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002701.jpg [f=4.19554 x=927 y=53 w=2551 h=2551] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152431.jpg -> skipped RoI [x=1499 y=290 w=2278 h=2278] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152431.jpg -> skipped RoI [x=1360 y=470 w=2096 h=2096] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152431.jpg -> skipped RoI [x=1325 y=133 w=1504 h=1504] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152431.jpg -> skipped RoI [x=1107 y=19 w=2121 h=2121] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152431.jpg -> skipped RoI [x=458 y=411 w=1372 h=1372] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152439.jpg -> creating RoI from [x=1260 y=1890 w=661 h=661]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152439.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002702.png [f=1.08708 x=1260 y=1890 w=661 h=661] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152439.jpg -> creating RoI from [x=51 y=688 w=1826 h=1826]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152439.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002703.jpg [f=3.00388 x=51 y=688 w=1826 h=1826] -> [608x608] [2/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152439.jpg-> adding RoI because it includes point-of-interest x=1962 y=1294
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152439.jpg -> creating RoI from [x=827 y=846 w=1274 h=1274]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152439.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002704.jpg [f=2.09606 x=827 y=846 w=1274 h=1274] -> [608x608] [3/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152439.jpg -> creating RoI from [x=2413 y=439 w=1046 h=1046]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152439.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002705.jpg [f=1.72086 x=2413 y=439 w=1046 h=1046] -> [608x608] [2/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152439.jpg-> adding RoI because it includes point-of-interest x=2106 y=1218
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152439.jpg -> creating RoI from [x=1074 y=211 w=1327 h=1327]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152439.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002706.jpg [f=2.18208 x=1074 y=211 w=1327 h=1327] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152439.jpg-> adding RoI because it includes point-of-interest x=2498 y=1511
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152439.jpg -> creating RoI from [x=1357 y=564 w=1940 h=1940]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152439.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002707.jpg [f=3.1909 x=1357 y=564 w=1940 h=1940] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152439.jpg -> skipped RoI [x=2848 y=165 w=885 h=885] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152439.jpg -> skipped RoI [x=792 y=14 w=2418 h=2418] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152439.jpg -> creating RoI from [x=3749 y=1621 w=758 h=758]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152439.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002708.png [f=1.24719 x=3749 y=1621 w=758 h=758] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152439.jpg -> skipped RoI [x=539 y=130 w=1942 h=1942] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152439.jpg -> skipped RoI [x=514 y=1081 w=1076 h=1076] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152439.jpg -> skipped RoI [x=886 y=70 w=1752 h=1752] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152439.jpg -> skipped RoI [x=2441 y=810 w=1483 h=1483] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152439.jpg -> skipped RoI [x=1627 y=45 w=2147 h=2147] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152459.jpg -> creating RoI from [x=1667 y=670 w=1743 h=1743]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152459.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002709.jpg [f=2.86598 x=1667 y=670 w=1743 h=1743] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152459.jpg -> skipped RoI [x=1039 y=882 w=1629 h=1629] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152459.jpg -> skipped RoI [x=999 y=873 w=1723 h=1723] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152459.jpg -> skipped RoI [x=2684 y=1603 w=582 h=582] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152459.jpg -> skipped RoI [x=2214 y=702 w=1349 h=1349] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152459.jpg -> skipped RoI [x=2705 y=294 w=1049 h=1049] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152536.jpg -> creating RoI from [x=2364 y=684 w=678 h=678]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152536.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002710.jpg [f=1.11594 x=2364 y=684 w=678 h=678] -> [608x608] [3/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152536.jpg -> creating RoI from [x=258 y=258 w=1409 h=1409]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152536.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002711.png [f=2.31714 x=258 y=258 w=1409 h=1409] -> [608x608] [2/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152536.jpg-> adding RoI because it includes point-of-interest x=1707 y=947
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152536.jpg -> creating RoI from [x=46 y=266 w=2092 h=2092]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152536.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002712.jpg [f=3.44155 x=46 y=266 w=2092 h=2092] -> [608x608] [5/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152536.jpg -> creating RoI from [x=1847 y=696 w=1414 h=1414]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152536.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002713.jpg [f=2.32636 x=1847 y=696 w=1414 h=1414] -> [608x608] [6/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152536.jpg -> skipped RoI [x=721 y=434 w=1899 h=1899] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152536.jpg -> skipped RoI [x=737 y=7 w=2575 h=2575] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152536.jpg -> skipped RoI [x=2497 y=1044 w=979 h=979] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152536.jpg -> creating RoI from [x=2450 y=270 w=1723 h=1723]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152536.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002714.png [f=2.83454 x=2450 y=270 w=1723 h=1723] -> [608x608] [2/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152536.jpg -> skipped RoI [x=1480 y=51 w=2352 h=2352] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152536.jpg -> skipped RoI [x=2365 y=129 w=1431 h=1431] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152536.jpg -> creating RoI from [x=3860 y=1896 w=571 h=571]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152536.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002715.png [f=0.939041 x=3860 y=1896 w=571 h=571] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152536.jpg -> skipped RoI [x=1074 y=315 w=1838 h=1838] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152536.jpg -> skipped RoI [x=3176 y=186 w=1350 h=1350] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152536.jpg -> skipped RoI [x=222 y=299 w=1759 h=1759] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152536.jpg -> skipped RoI [x=1535 y=1231 w=1233 h=1233] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152536.jpg -> skipped RoI [x=435 y=384 w=1147 h=1147] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152557.jpg -> creating RoI from [x=1972 y=559 w=1266 h=1266]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152557.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002716.png [f=2.08245 x=1972 y=559 w=1266 h=1266] -> [608x608] [5/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152557.jpg -> creating RoI from [x=1130 y=1332 w=609 h=609]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152557.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002717.png [f=1.00107 x=1130 y=1332 w=609 h=609] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152557.jpg-> adding RoI because it includes point-of-interest x=1547 y=844
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152557.jpg -> creating RoI from [x=1034 y=5 w=2591 h=2591]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152557.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002718.png [f=4.26145 x=1034 y=5 w=2591 h=2591] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152557.jpg -> skipped RoI [x=2380 y=963 w=1580 h=1580] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152557.jpg -> skipped RoI [x=3035 y=573 w=973 h=973] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152557.jpg -> skipped RoI [x=1478 y=1220 w=1180 h=1180] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152557.jpg -> skipped RoI [x=201 y=32 w=2490 h=2490] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152557.jpg -> skipped RoI [x=2804 y=307 w=926 h=926] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152635.jpg -> creating RoI from [x=974 y=57 w=2509 h=2509]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152635.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002719.png [f=4.12736 x=974 y=57 w=2509 h=2509] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152635.jpg -> skipped RoI [x=2299 y=651 w=1890 h=1890] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152635.jpg -> skipped RoI [x=2427 y=169 w=636 h=636] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152635.jpg -> creating RoI from [x=3470 y=1004 w=631 h=631]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152635.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002720.png [f=1.03746 x=3470 y=1004 w=631 h=631] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152635.jpg -> skipped RoI [x=1075 y=38 w=1682 h=1682] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152635.jpg -> skipped RoI [x=1513 y=779 w=1100 h=1100] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152635.jpg -> skipped RoI [x=332 y=691 w=1863 h=1863] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152635.jpg -> creating RoI from [x=199 y=906 w=1269 h=1269]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152635.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002721.png [f=2.0869 x=199 y=906 w=1269 h=1269] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152635.jpg -> skipped RoI [x=868 y=386 w=2181 h=2181] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152635.jpg -> skipped RoI [x=922 y=586 w=755 h=755] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152635.jpg -> skipped RoI [x=317 y=315 w=1941 h=1941] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152635.jpg -> skipped RoI [x=1186 y=1598 w=769 h=769] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152635.jpg -> skipped RoI [x=1633 y=139 w=2448 h=2448] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152643.jpg -> creating RoI from [x=1846 y=60 w=2130 h=2130]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152643.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002722.jpg [f=3.50304 x=1846 y=60 w=2130 h=2130] -> [608x608] [6/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152643.jpg-> adding RoI because it includes point-of-interest x=1697 y=1230
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152643.jpg -> creating RoI from [x=1015 y=367 w=2177 h=2177]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152643.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002723.png [f=3.5811 x=1015 y=367 w=2177 h=2177] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152643.jpg -> creating RoI from [x=115 y=224 w=1104 h=1104]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152643.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002724.jpg [f=1.81584 x=115 y=224 w=1104 h=1104] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152643.jpg -> skipped RoI [x=2426 y=21 w=2054 h=2054] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152643.jpg -> skipped RoI [x=2152 y=239 w=1902 h=1902] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152643.jpg -> skipped RoI [x=1928 y=678 w=1815 h=1815] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152643.jpg -> creating RoI from [x=194 y=1014 w=1429 h=1429]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152643.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002725.png [f=2.35112 x=194 y=1014 w=1429 h=1429] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152643.jpg -> skipped RoI [x=2246 y=217 w=1253 h=1253] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152643.jpg -> skipped RoI [x=1170 y=517 w=1262 h=1262] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152643.jpg -> skipped RoI [x=557 y=265 w=1888 h=1888] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152643.jpg -> skipped RoI [x=1182 y=417 w=1191 h=1191] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152643.jpg -> skipped RoI [x=1889 y=1 w=2151 h=2151] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152700.jpg -> creating RoI from [x=1154 y=267 w=2169 h=2169]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152700.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002726.png [f=3.56743 x=1154 y=267 w=2169 h=2169] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152700.jpg -> skipped RoI [x=629 y=481 w=1197 h=1197] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152700.jpg -> skipped RoI [x=790 y=133 w=2445 h=2445] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152700.jpg -> creating RoI from [x=188 y=1159 w=1417 h=1417]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152700.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002727.png [f=2.32978 x=188 y=1159 w=1417 h=1417] -> [608x608] [2/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152700.jpg -> skipped RoI [x=90 y=1568 w=961 h=961] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152700.jpg -> skipped RoI [x=880 y=117 w=2153 h=2153] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152700.jpg -> skipped RoI [x=1221 y=596 w=1484 h=1484] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152700.jpg -> skipped RoI [x=1377 y=231 w=1441 h=1441] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152700.jpg -> skipped RoI [x=1702 y=65 w=2358 h=2358] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152705.jpg -> creating RoI from [x=3037 y=1273 w=893 h=893]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152705.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002728.png [f=1.46827 x=3037 y=1273 w=893 h=893] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152705.jpg -> creating RoI from [x=1150 y=144 w=1722 h=1722]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152705.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002729.jpg [f=2.83175 x=1150 y=144 w=1722 h=1722] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152705.jpg -> skipped RoI [x=1406 y=1036 w=1510 h=1510] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152705.jpg -> creating RoI from [x=2145 y=418 w=1463 h=1463]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152705.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002730.jpg [f=2.40637 x=2145 y=418 w=1463 h=1463] -> [608x608] [3/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152705.jpg -> skipped RoI [x=1591 y=105 w=2258 h=2258] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152705.jpg -> skipped RoI [x=772 y=632 w=1453 h=1453] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152705.jpg -> skipped RoI [x=2287 y=234 w=977 h=977] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152705.jpg -> creating RoI from [x=37 y=303 w=2151 h=2151]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152705.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002731.jpg [f=3.53708 x=37 y=303 w=2151 h=2151] -> [608x608] [6/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152705.jpg -> skipped RoI [x=2489 y=379 w=2054 h=2054] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152705.jpg -> skipped RoI [x=712 y=35 w=2450 h=2450] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152705.jpg -> skipped RoI [x=509 y=964 w=1109 h=1109] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152705.jpg -> skipped RoI [x=765 y=1458 w=964 h=964] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152705.jpg -> skipped RoI [x=2304 y=535 w=2008 h=2008] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152716.jpg -> creating RoI from [x=3385 y=1176 w=581 h=581]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152716.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002732.jpg [f=0.955802 x=3385 y=1176 w=581 h=581] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152716.jpg -> skipped RoI [x=2851 y=957 w=1076 h=1076] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152716.jpg -> creating RoI from [x=1063 y=198 w=1883 h=1883]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152716.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002733.jpg [f=3.09763 x=1063 y=198 w=1883 h=1883] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152716.jpg -> skipped RoI [x=2007 y=287 w=968 h=968] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152716.jpg -> creating RoI from [x=2582 y=945 w=1061 h=1061]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152716.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002734.png [f=1.74553 x=2582 y=945 w=1061 h=1061] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152716.jpg -> skipped RoI [x=2324 y=16 w=1912 h=1912] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152716.jpg -> skipped RoI [x=1606 y=357 w=1694 h=1694] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152716.jpg -> skipped RoI [x=954 y=153 w=2198 h=2198] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152716.jpg -> skipped RoI [x=9 y=10 w=2497 h=2497] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152716.jpg -> skipped RoI [x=1605 y=424 w=1848 h=1848] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152742.jpg -> creating RoI from [x=2157 y=213 w=2277 h=2277]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152742.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002735.png [f=3.74533 x=2157 y=213 w=2277 h=2277] -> [608x608] [4/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152742.jpg -> skipped RoI [x=4061 y=198 w=504 h=504] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152742.jpg -> creating RoI from [x=460 y=73 w=790 h=790]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152742.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002736.png [f=1.29924 x=460 y=73 w=790 h=790] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152742.jpg-> adding RoI because it includes point-of-interest x=2077 y=1042
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152742.jpg -> creating RoI from [x=2073 y=853 w=1411 h=1411]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152742.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002737.jpg [f=2.32099 x=2073 y=853 w=1411 h=1411] -> [608x608] [4/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152742.jpg -> skipped RoI [x=2459 y=401 w=1821 h=1821] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152742.jpg -> creating RoI from [x=871 y=101 w=1814 h=1814]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152742.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002738.jpg [f=2.98343 x=871 y=101 w=1814 h=1814] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152742.jpg -> skipped RoI [x=2393 y=304 w=1714 h=1714] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152742.jpg -> skipped RoI [x=635 y=100 w=2477 h=2477] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152742.jpg -> skipped RoI [x=2092 y=3 w=1339 h=1339] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152742.jpg -> skipped RoI [x=2300 y=58 w=2251 h=2251] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152742.jpg -> skipped RoI [x=408 y=1075 w=1466 h=1466] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152748.jpg -> creating RoI from [x=419 y=293 w=2087 h=2087]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152748.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002739.jpg [f=3.43246 x=419 y=293 w=2087 h=2087] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152748.jpg -> skipped RoI [x=594 y=518 w=1147 h=1147] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152748.jpg-> adding RoI because it includes point-of-interest x=2519 y=919
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152748.jpg -> creating RoI from [x=1112 y=111 w=2474 h=2474]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152748.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002740.png [f=4.06914 x=1112 y=111 w=2474 h=2474] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152748.jpg -> skipped RoI [x=701 y=33 w=2506 h=2506] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152748.jpg -> skipped RoI [x=1048 y=1123 w=641 h=641] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152748.jpg -> skipped RoI [x=973 y=3 w=2475 h=2475] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152748.jpg -> skipped RoI [x=2563 y=399 w=1941 h=1941] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152748.jpg -> skipped RoI [x=212 y=223 w=2247 h=2247] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152813.jpg -> creating RoI from [x=2656 y=282 w=964 h=964]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152813.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002741.jpg [f=1.58575 x=2656 y=282 w=964 h=964] -> [608x608] [3/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152813.jpg -> creating RoI from [x=174 y=516 w=1894 h=1894]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152813.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002742.png [f=3.11538 x=174 y=516 w=1894 h=1894] -> [608x608] [3/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152813.jpg -> creating RoI from [x=2906 y=652 w=1305 h=1305]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152813.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002743.png [f=2.14593 x=2906 y=652 w=1305 h=1305] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152813.jpg-> adding RoI because it includes point-of-interest x=2192 y=1028
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152813.jpg -> creating RoI from [x=402 y=176 w=2135 h=2135]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152813.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002744.png [f=3.51204 x=402 y=176 w=2135 h=2135] -> [608x608] [5/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152813.jpg-> adding RoI because it includes point-of-interest x=2587 y=993
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152813.jpg -> creating RoI from [x=1624 y=68 w=2195 h=2195]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152813.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002745.jpg [f=3.60954 x=1624 y=68 w=2195 h=2195] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152813.jpg -> skipped RoI [x=2391 y=164 w=1304 h=1304] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152813.jpg -> skipped RoI [x=1834 y=162 w=1848 h=1848] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152813.jpg -> skipped RoI [x=1373 y=1305 w=530 h=530] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152813.jpg -> skipped RoI [x=762 y=219 w=2226 h=2226] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152813.jpg -> skipped RoI [x=2073 y=852 w=1372 h=1372] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152900.jpg -> creating RoI from [x=1187 y=374 w=2165 h=2165]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152900.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002746.png [f=3.56018 x=1187 y=374 w=2165 h=2165] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152900.jpg -> creating RoI from [x=3325 y=665 w=1281 h=1281]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152900.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002747.png [f=2.1072 x=3325 y=665 w=1281 h=1281] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152900.jpg -> skipped RoI [x=2301 y=795 w=1135 h=1135] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152900.jpg -> skipped RoI [x=2048 y=224 w=2159 h=2159] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152900.jpg -> skipped RoI [x=3081 y=774 w=1219 h=1219] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152900.jpg -> creating RoI from [x=472 y=1322 w=1279 h=1279]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152900.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002748.jpg [f=2.1035 x=472 y=1322 w=1279 h=1279] -> [608x608] [1/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152900.jpg -> creating RoI from [x=141 y=345 w=1427 h=1427]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152900.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002749.png [f=2.34718 x=141 y=345 w=1427 h=1427] -> [608x608] [2/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152900.jpg -> skipped RoI [x=3158 y=1206 w=1051 h=1051] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152900.jpg -> skipped RoI [x=1618 y=128 w=1432 h=1432] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152900.jpg -> skipped RoI [x=533 y=198 w=1007 h=1007] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152900.jpg -> skipped RoI [x=2145 y=288 w=2058 h=2058] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152900.jpg -> skipped RoI [x=1802 y=444 w=1849 h=1849] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152912.jpg -> creating RoI from [x=1447 y=15 w=2585 h=2585]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152912.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002750.png [f=4.25196 x=1447 y=15 w=2585 h=2585] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152912.jpg -> skipped RoI [x=1526 y=496 w=1028 h=1028] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152912.jpg -> skipped RoI [x=2626 y=408 w=1331 h=1331] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152912.jpg -> creating RoI from [x=470 y=499 w=1763 h=1763]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152912.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002751.jpg [f=2.89926 x=470 y=499 w=1763 h=1763] -> [608x608] [5/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152912.jpg -> skipped RoI [x=1763 y=106 w=2120 h=2120] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152912.jpg -> skipped RoI [x=599 y=918 w=1612 h=1612] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152912.jpg -> skipped RoI [x=1672 y=545 w=1261 h=1261] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152912.jpg -> skipped RoI [x=287 y=277 w=1953 h=1953] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152912.jpg -> skipped RoI [x=766 y=11 w=2376 h=2376] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152926.jpg -> creating RoI from [x=1777 y=881 w=1226 h=1226]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152926.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002752.png [f=2.01696 x=1777 y=881 w=1226 h=1226] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152926.jpg -> creating RoI from [x=2164 y=604 w=1687 h=1687]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152926.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002753.png [f=2.77463 x=2164 y=604 w=1687 h=1687] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152926.jpg -> creating RoI from [x=282 y=92 w=2005 h=2005]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152926.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002754.png [f=3.29837 x=282 y=92 w=2005 h=2005] -> [608x608] [3/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152926.jpg -> skipped RoI [x=1314 y=830 w=1151 h=1151] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152926.jpg -> skipped RoI [x=1924 y=4 w=1997 h=1997] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152926.jpg -> skipped RoI [x=1361 y=451 w=2032 h=2032] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152926.jpg -> skipped RoI [x=2056 y=218 w=1266 h=1266] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152926.jpg -> skipped RoI [x=1641 y=588 w=1963 h=1963] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152936.jpg -> creating RoI from [x=517 y=112 w=2342 h=2342]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152936.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002755.png [f=3.85149 x=517 y=112 w=2342 h=2342] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152936.jpg -> creating RoI from [x=2064 y=92 w=2083 h=2083]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152936.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002756.png [f=3.42534 x=2064 y=92 w=2083 h=2083] -> [608x608] [5/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152936.jpg -> skipped RoI [x=1955 y=193 w=610 h=610] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152936.jpg -> skipped RoI [x=1172 y=446 w=1998 h=1998] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152936.jpg -> skipped RoI [x=1988 y=882 w=1407 h=1407] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152936.jpg -> skipped RoI [x=1406 y=637 w=1644 h=1644] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152936.jpg -> skipped RoI [x=3837 y=1070 w=529 h=529] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152944.jpg -> creating RoI from [x=1706 y=154 w=1384 h=1384]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152944.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002757.png [f=2.27579 x=1706 y=154 w=1384 h=1384] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152944.jpg -> creating RoI from [x=2378 y=206 w=2193 h=2193]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152944.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002758.jpg [f=3.60629 x=2378 y=206 w=2193 h=2193] -> [608x608] [2/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152944.jpg-> adding RoI because it includes point-of-interest x=1637 y=1168
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152944.jpg -> creating RoI from [x=645 y=173 w=2271 h=2271]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152944.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002759.jpg [f=3.73483 x=645 y=173 w=2271 h=2271] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152944.jpg -> skipped RoI [x=1823 y=610 w=1731 h=1731] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152944.jpg -> skipped RoI [x=1313 y=111 w=929 h=929] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152944.jpg -> skipped RoI [x=1025 y=609 w=1973 h=1973] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152944.jpg -> skipped RoI [x=1480 y=355 w=1797 h=1797] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152944.jpg -> skipped RoI [x=2494 y=705 w=1581 h=1581] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152954.jpg -> creating RoI from [x=1644 y=58 w=679 h=679]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152954.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002760.jpg [f=1.11756 x=1644 y=58 w=679 h=679] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152954.jpg -> creating RoI from [x=1692 y=421 w=1321 h=1321]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152954.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002761.png [f=2.17341 x=1692 y=421 w=1321 h=1321] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152954.jpg -> creating RoI from [x=769 y=680 w=1727 h=1727]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152954.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002762.png [f=2.83981 x=769 y=680 w=1727 h=1727] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152954.jpg -> skipped RoI [x=1834 y=377 w=1626 h=1626] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152954.jpg -> skipped RoI [x=2175 y=627 w=654 h=654] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152954.jpg -> skipped RoI [x=1294 y=245 w=2053 h=2053] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152954.jpg -> skipped RoI [x=1061 y=50 w=2343 h=2343] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152954.jpg -> creating RoI from [x=2496 y=200 w=2083 h=2083]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152954.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002763.png [f=3.42517 x=2496 y=200 w=2083 h=2083] -> [608x608] [1/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152954.jpg -> skipped RoI [x=631 y=448 w=1099 h=1099] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152954.jpg -> skipped RoI [x=518 y=280 w=876 h=876] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152954.jpg -> skipped RoI [x=2146 y=1185 w=1207 h=1207] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152954.jpg -> skipped RoI [x=620 y=178 w=1294 h=1294] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_152954.jpg -> skipped RoI [x=1624 y=429 w=1873 h=1873] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153007.jpg -> creating RoI from [x=2384 y=2 w=922 h=922]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153007.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002764.jpg [f=1.51569 x=2384 y=2 w=922 h=922] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153007.jpg -> creating RoI from [x=603 y=549 w=1212 h=1212]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153007.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002765.png [f=1.99367 x=603 y=549 w=1212 h=1212] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153007.jpg -> creating RoI from [x=1852 y=444 w=2139 h=2139]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153007.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002766.jpg [f=3.51837 x=1852 y=444 w=2139 h=2139] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153007.jpg -> skipped RoI [x=3350 y=258 w=620 h=620] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153007.jpg -> creating RoI from [x=1324 y=816 w=985 h=985]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153007.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002767.jpg [f=1.61925 x=1324 y=816 w=985 h=985] -> [608x608] [4/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153007.jpg -> skipped RoI [x=1183 y=334 w=2005 h=2005] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153007.jpg -> creating RoI from [x=30 y=808 w=1040 h=1040]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153007.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002768.jpg [f=1.70994 x=30 y=808 w=1040 h=1040] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153007.jpg -> skipped RoI [x=1454 y=406 w=2157 h=2157] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153007.jpg -> skipped RoI [x=1541 y=1197 w=1187 h=1187] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153007.jpg -> skipped RoI [x=1664 y=480 w=2083 h=2083] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153007.jpg -> skipped RoI [x=770 y=402 w=2046 h=2046] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153007.jpg -> skipped RoI [x=3472 y=1819 w=583 h=583] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153010.jpg -> creating RoI from [x=246 y=320 w=2051 h=2051]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153010.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002769.jpg [f=3.37359 x=246 y=320 w=2051 h=2051] -> [608x608] [6/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153010.jpg -> creating RoI from [x=1524 y=189 w=2078 h=2078]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153010.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002770.png [f=3.41763 x=1524 y=189 w=2078 h=2078] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153010.jpg -> skipped RoI [x=301 y=59 w=2444 h=2444] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153010.jpg -> skipped RoI [x=2179 y=375 w=2177 h=2177] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153010.jpg -> skipped RoI [x=2325 y=1188 w=709 h=709] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153010.jpg -> skipped RoI [x=1381 y=44 w=1356 h=1356] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153010.jpg -> skipped RoI [x=1940 y=62 w=2153 h=2153] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153016.jpg -> creating RoI from [x=2213 y=123 w=2323 h=2323]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153016.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002771.png [f=3.82139 x=2213 y=123 w=2323 h=2323] -> [608x608] [3/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153016.jpg -> creating RoI from [x=427 y=42 w=2140 h=2140]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153016.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002772.jpg [f=3.52033 x=427 y=42 w=2140 h=2140] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153016.jpg -> skipped RoI [x=559 y=59 w=2316 h=2316] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153016.jpg -> skipped RoI [x=1805 y=1247 w=1044 h=1044] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153016.jpg -> skipped RoI [x=2380 y=62 w=1895 h=1895] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153016.jpg -> skipped RoI [x=2552 y=1430 w=850 h=850] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153016.jpg -> skipped RoI [x=668 y=467 w=1389 h=1389] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153027.jpg -> creating RoI from [x=3228 y=401 w=652 h=652]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153027.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002773.jpg [f=1.07226 x=3228 y=401 w=652 h=652] -> [608x608] [0/6]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153027.jpg -> creating RoI from [x=1064 y=976 w=1451 h=1451]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153027.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002774.jpg [f=2.38599 x=1064 y=976 w=1451 h=1451] -> [608x608] [5/6]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153027.jpg -> skipped RoI [x=1754 y=1184 w=765 h=765] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153027.jpg -> skipped RoI [x=1144 y=1108 w=1270 h=1270] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153027.jpg-> adding RoI because it includes point-of-interest x=1806 y=879
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153027.jpg -> creating RoI from [x=782 y=226 w=1798 h=1798]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153027.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002775.png [f=2.9571 x=782 y=226 w=1798 h=1798] -> [608x608] [6/6]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153027.jpg-> adding RoI because it includes point-of-interest x=2651 y=922
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153027.jpg -> creating RoI from [x=1243 y=592 w=1954 h=1954]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153027.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002776.png [f=3.2139 x=1243 y=592 w=1954 h=1954] -> [608x608] [6/6]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153027.jpg -> skipped RoI [x=1173 y=129 w=1973 h=1973] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153027.jpg -> creating RoI from [x=2296 y=341 w=1860 h=1860]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153027.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002777.jpg [f=3.05855 x=2296 y=341 w=1860 h=1860] -> [608x608] [4/6]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153027.jpg -> skipped RoI [x=311 y=646 w=1790 h=1790] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153027.jpg -> skipped RoI [x=3076 y=404 w=1342 h=1342] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153027.jpg -> skipped RoI [x=1860 y=165 w=2335 h=2335] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153027.jpg -> skipped RoI [x=1319 y=328 w=731 h=731] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153027.jpg -> skipped RoI [x=927 y=231 w=1897 h=1897] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153038.jpg -> creating RoI from [x=781 y=722 w=1761 h=1761]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153038.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002778.jpg [f=2.89618 x=781 y=722 w=1761 h=1761] -> [608x608] [6/6]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153038.jpg -> creating RoI from [x=2607 y=486 w=1531 h=1531]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153038.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002779.jpg [f=2.51789 x=2607 y=486 w=1531 h=1531] -> [608x608] [2/6]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153038.jpg-> adding RoI because it includes point-of-interest x=2567 y=1346
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153038.jpg -> creating RoI from [x=352 y=22 w=2562 h=2562]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153038.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002780.png [f=4.21434 x=352 y=22 w=2562 h=2562] -> [608x608] [6/6]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153038.jpg -> skipped RoI [x=451 y=41 w=2523 h=2523] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153038.jpg -> skipped RoI [x=1386 y=1132 w=1296 h=1296] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153038.jpg -> skipped RoI [x=1549 y=23 w=2321 h=2321] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153038.jpg -> skipped RoI [x=187 y=1 w=2598 h=2598] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153038.jpg -> skipped RoI [x=490 y=21 w=2509 h=2509] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153041.jpg -> creating RoI from [x=995 y=1009 w=1251 h=1251]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153041.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002781.jpg [f=2.05732 x=995 y=1009 w=1251 h=1251] -> [608x608] [3/6]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153041.jpg -> skipped RoI [x=1101 y=1534 w=608 h=608] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153041.jpg -> creating RoI from [x=245 y=1244 w=1017 h=1017]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153041.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002782.png [f=1.67286 x=245 y=1244 w=1017 h=1017] -> [608x608] [0/6]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153041.jpg -> creating RoI from [x=2039 y=17 w=2571 h=2571]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153041.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002783.jpg [f=4.22881 x=2039 y=17 w=2571 h=2571] -> [608x608] [6/6]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153041.jpg-> adding RoI because it includes point-of-interest x=1755 y=853
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153041.jpg -> creating RoI from [x=1140 y=25 w=2556 h=2556]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153041.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002784.png [f=4.20364 x=1140 y=25 w=2556 h=2556] -> [608x608] [6/6]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153041.jpg -> skipped RoI [x=159 y=90 w=2140 h=2140] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153041.jpg -> skipped RoI [x=3309 y=1176 w=563 h=563] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153041.jpg -> skipped RoI [x=1915 y=62 w=1886 h=1886] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153041.jpg -> skipped RoI [x=1680 y=135 w=1678 h=1678] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153041.jpg -> skipped RoI [x=1897 y=0 w=2598 h=2598] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153112.jpg -> creating RoI from [x=886 y=301 w=1537 h=1537]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153112.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002785.jpg [f=2.52773 x=886 y=301 w=1537 h=1537] -> [608x608] [5/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153112.jpg -> creating RoI from [x=3812 y=166 w=756 h=756]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153112.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002786.jpg [f=1.24347 x=3812 y=166 w=756 h=756] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153112.jpg -> creating RoI from [x=2063 y=239 w=1298 h=1298]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153112.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002787.jpg [f=2.1351 x=2063 y=239 w=1298 h=1298] -> [608x608] [5/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153112.jpg -> skipped RoI [x=2015 y=1243 w=733 h=733] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153112.jpg -> skipped RoI [x=558 y=1057 w=1398 h=1398] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153112.jpg -> skipped RoI [x=325 y=203 w=2332 h=2332] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153112.jpg -> skipped RoI [x=1764 y=12 w=2346 h=2346] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153112.jpg -> creating RoI from [x=2497 y=345 w=1871 h=1871]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153112.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002788.png [f=3.0768 x=2497 y=345 w=1871 h=1871] -> [608x608] [4/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153112.jpg -> skipped RoI [x=1065 y=396 w=499 h=499] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153112.jpg -> skipped RoI [x=1515 y=17 w=2550 h=2550] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153112.jpg -> skipped RoI [x=3979 y=537 w=630 h=630] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153112.jpg -> skipped RoI [x=280 y=639 w=1561 h=1561] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153112.jpg -> skipped RoI [x=1793 y=501 w=1509 h=1509] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153118.jpg -> creating RoI from [x=2444 y=1058 w=558 h=558]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153118.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002789.png [f=0.917831 x=2444 y=1058 w=558 h=558] -> [608x608] [3/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153118.jpg-> adding RoI because it includes point-of-interest x=2032 y=914
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153118.jpg -> creating RoI from [x=1988 y=577 w=1799 h=1799]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153118.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002790.png [f=2.95968 x=1988 y=577 w=1799 h=1799] -> [608x608] [5/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153118.jpg -> skipped RoI [x=1989 y=29 w=1952 h=1952] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153118.jpg -> skipped RoI [x=2022 y=650 w=1715 h=1715] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153118.jpg -> creating RoI from [x=514 y=110 w=2281 h=2281]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153118.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002791.jpg [f=3.75098 x=514 y=110 w=2281 h=2281] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153118.jpg -> skipped RoI [x=709 y=522 w=1943 h=1943] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153118.jpg -> skipped RoI [x=149 y=675 w=1802 h=1802] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153118.jpg -> skipped RoI [x=3175 y=195 w=1024 h=1024] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153118.jpg -> skipped RoI [x=2733 y=276 w=1111 h=1111] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153118.jpg -> skipped RoI [x=3324 y=1636 w=685 h=685] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153131.jpg -> creating RoI from [x=1523 y=171 w=2237 h=2237]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153131.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002792.jpg [f=3.67875 x=1523 y=171 w=2237 h=2237] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153131.jpg -> skipped RoI [x=662 y=247 w=1966 h=1966] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153131.jpg -> creating RoI from [x=671 y=1114 w=653 h=653]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153131.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002793.png [f=1.07378 x=671 y=1114 w=653 h=653] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153131.jpg -> skipped RoI [x=1867 y=574 w=999 h=999] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153131.jpg -> skipped RoI [x=2842 y=837 w=1736 h=1736] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153131.jpg -> skipped RoI [x=702 y=69 w=2412 h=2412] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153131.jpg -> creating RoI from [x=3509 y=1033 w=1088 h=1088]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153131.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002794.png [f=1.78952 x=3509 y=1033 w=1088 h=1088] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153131.jpg -> skipped RoI [x=3092 y=1479 w=945 h=945] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153131.jpg -> skipped RoI [x=482 y=13 w=2438 h=2438] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153131.jpg -> skipped RoI [x=430 y=1005 w=1174 h=1174] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153131.jpg -> creating RoI from [x=94 y=32 w=2569 h=2569]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153131.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002795.jpg [f=4.22592 x=94 y=32 w=2569 h=2569] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153131.jpg -> skipped RoI [x=3166 y=1022 w=980 h=980] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153131.jpg -> skipped RoI [x=192 y=368 w=1854 h=1854] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153131.jpg -> skipped RoI [x=679 y=1273 w=706 h=706] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153131.jpg -> skipped RoI [x=1384 y=224 w=2275 h=2275] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153131.jpg -> skipped RoI [x=2779 y=33 w=1204 h=1204] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153142.jpg -> creating RoI from [x=14 y=1655 w=755 h=755]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153142.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002796.png [f=1.24119 x=14 y=1655 w=755 h=755] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153142.jpg -> creating RoI from [x=2005 y=552 w=997 h=997]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153142.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002797.jpg [f=1.64001 x=2005 y=552 w=997 h=997] -> [608x608] [5/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153142.jpg -> creating RoI from [x=716 y=247 w=837 h=837]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153142.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002798.png [f=1.37696 x=716 y=247 w=837 h=837] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153142.jpg -> creating RoI from [x=2863 y=196 w=1724 h=1724]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153142.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002799.jpg [f=2.83498 x=2863 y=196 w=1724 h=1724] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153142.jpg -> skipped RoI [x=710 y=237 w=776 h=776] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153142.jpg -> creating RoI from [x=1635 y=799 w=1765 h=1765]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153142.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002800.jpg [f=2.90349 x=1635 y=799 w=1765 h=1765] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153142.jpg -> skipped RoI [x=2187 y=392 w=2175 h=2175] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153142.jpg-> adding RoI because it includes point-of-interest x=1597 y=1168
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153142.jpg -> creating RoI from [x=1509 y=204 w=2338 h=2338]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153142.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002801.png [f=3.84557 x=1509 y=204 w=2338 h=2338] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153142.jpg -> skipped RoI [x=1277 y=157 w=2419 h=2419] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153142.jpg -> creating RoI from [x=1231 y=1736 w=490 h=490]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153142.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002802.jpg [f=0.806279 x=1231 y=1736 w=490 h=490] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153142.jpg -> skipped RoI [x=2183 y=355 w=1936 h=1936] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153142.jpg -> skipped RoI [x=2090 y=30 w=1971 h=1971] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153142.jpg -> skipped RoI [x=3252 y=1085 w=1246 h=1246] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153142.jpg -> skipped RoI [x=1306 y=548 w=1770 h=1770] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153142.jpg -> skipped RoI [x=1452 y=81 w=1536 h=1536] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153236.jpg -> creating RoI from [x=640 y=329 w=2040 h=2040]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153236.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002803.jpg [f=3.3558 x=640 y=329 w=2040 h=2040] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153236.jpg -> skipped RoI [x=1540 y=297 w=2172 h=2172] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153236.jpg -> creating RoI from [x=2744 y=756 w=1063 h=1063]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153236.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002804.png [f=1.74761 x=2744 y=756 w=1063 h=1063] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153236.jpg -> skipped RoI [x=408 y=130 w=1949 h=1949] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153236.jpg -> skipped RoI [x=1855 y=225 w=1554 h=1554] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153236.jpg -> skipped RoI [x=95 y=352 w=2238 h=2238] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153236.jpg -> skipped RoI [x=589 y=337 w=972 h=972] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153236.jpg -> skipped RoI [x=343 y=1276 w=613 h=613] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153327.jpg -> creating RoI from [x=531 y=393 w=1639 h=1639]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153327.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002805.png [f=2.69597 x=531 y=393 w=1639 h=1639] -> [608x608] [5/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153327.jpg -> creating RoI from [x=2028 y=616 w=1591 h=1591]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153327.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002806.png [f=2.61608 x=2028 y=616 w=1591 h=1591] -> [608x608] [5/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153327.jpg -> skipped RoI [x=1505 y=79 w=2191 h=2191] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153327.jpg -> skipped RoI [x=3278 y=945 w=563 h=563] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153327.jpg -> skipped RoI [x=681 y=641 w=1177 h=1177] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153327.jpg -> skipped RoI [x=296 y=642 w=664 h=664] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153327.jpg -> skipped RoI [x=88 y=182 w=2419 h=2419] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg -> creating RoI from [x=1492 y=819 w=870 h=870]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002807.png [f=1.43172 x=1492 y=819 w=870 h=870] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg -> creating RoI from [x=393 y=873 w=1691 h=1691]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002808.jpg [f=2.78093 x=393 y=873 w=1691 h=1691] -> [608x608] [5/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg -> creating RoI from [x=3237 y=78 w=789 h=789]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002809.jpg [f=1.29773 x=3237 y=78 w=789 h=789] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg -> creating RoI from [x=3395 y=1208 w=698 h=698]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002810.png [f=1.14874 x=3395 y=1208 w=698 h=698] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg-> adding RoI because it includes point-of-interest x=2382 y=1221
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg -> creating RoI from [x=620 y=131 w=2422 h=2422]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002811.png [f=3.98289 x=620 y=131 w=2422 h=2422] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg -> skipped RoI [x=2572 y=582 w=1676 h=1676] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg -> skipped RoI [x=2380 y=1371 w=1141 h=1141] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg -> skipped RoI [x=1054 y=44 w=2358 h=2358] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg -> skipped RoI [x=938 y=68 w=2534 h=2534] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg -> creating RoI from [x=294 y=129 w=496 h=496]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002812.png [f=0.81535 x=294 y=129 w=496 h=496] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg -> skipped RoI [x=1503 y=6 w=2512 h=2512] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg -> skipped RoI [x=494 y=1006 w=1594 h=1594] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg -> skipped RoI [x=509 y=896 w=1470 h=1470] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg -> creating RoI from [x=2572 y=674 w=1215 h=1215]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002813.png [f=1.99898 x=2572 y=674 w=1215 h=1215] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg -> skipped RoI [x=3063 y=825 w=1534 h=1534] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg -> skipped RoI [x=1683 y=111 w=1086 h=1086] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg -> skipped RoI [x=1898 y=9 w=2592 h=2592] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg -> creating RoI from [x=3855 y=1338 w=579 h=579]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002814.png [f=0.952096 x=3855 y=1338 w=579 h=579] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg -> skipped RoI [x=265 y=340 w=2190 h=2190] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg -> creating RoI from [x=2685 y=204 w=719 h=719]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002815.png [f=1.18269 x=2685 y=204 w=719 h=719] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg -> skipped RoI [x=980 y=241 w=2245 h=2245] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg -> skipped RoI [x=43 y=13 w=2454 h=2454] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg -> skipped RoI [x=2041 y=3 w=2471 h=2471] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg -> creating RoI from [x=97 y=1902 w=513 h=513]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002816.jpg [f=0.844145 x=97 y=1902 w=513 h=513] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg -> skipped RoI [x=2205 y=737 w=1745 h=1745] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg -> skipped RoI [x=1998 y=222 w=2338 h=2338] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg -> skipped RoI [x=2224 y=212 w=1758 h=1758] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg -> skipped RoI [x=2440 y=248 w=2054 h=2054] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153338.jpg -> skipped RoI [x=1083 y=306 w=1965 h=1965] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153356.jpg -> creating RoI from [x=799 y=308 w=1901 h=1901]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153356.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002817.png [f=3.126 x=799 y=308 w=1901 h=1901] -> [608x608] [6/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153356.jpg -> creating RoI from [x=2001 y=522 w=1731 h=1731]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153356.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002818.png [f=2.84715 x=2001 y=522 w=1731 h=1731] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153356.jpg -> skipped RoI [x=1081 y=602 w=1952 h=1952] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153356.jpg -> skipped RoI [x=837 y=75 w=2252 h=2252] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153356.jpg -> skipped RoI [x=1728 y=118 w=1999 h=1999] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153356.jpg -> skipped RoI [x=2702 y=426 w=1186 h=1186] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153356.jpg -> skipped RoI [x=2279 y=38 w=2344 h=2344] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153416.jpg -> creating RoI from [x=454 y=50 w=2539 h=2539]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153416.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002819.png [f=4.17518 x=454 y=50 w=2539 h=2539] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153416.jpg -> skipped RoI [x=1470 y=696 w=646 h=646] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153416.jpg -> skipped RoI [x=839 y=186 w=1679 h=1679] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153416.jpg -> skipped RoI [x=423 y=607 w=1668 h=1668] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153416.jpg -> skipped RoI [x=393 y=101 w=2324 h=2324] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153416.jpg -> skipped RoI [x=386 y=845 w=981 h=981] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153431.jpg -> creating RoI from [x=617 y=647 w=773 h=773]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153431.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002820.jpg [f=1.27127 x=617 y=647 w=773 h=773] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153431.jpg -> creating RoI from [x=437 y=550 w=2023 h=2023]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153431.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002821.png [f=3.32781 x=437 y=550 w=2023 h=2023] -> [608x608] [5/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153431.jpg-> adding RoI because it includes point-of-interest x=2503 y=1171
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153431.jpg -> creating RoI from [x=1338 y=953 w=1501 h=1501]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153431.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002822.png [f=2.46849 x=1338 y=953 w=1501 h=1501] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153431.jpg -> skipped RoI [x=876 y=80 w=2186 h=2186] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153431.jpg -> skipped RoI [x=1635 y=131 w=2366 h=2366] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153431.jpg -> skipped RoI [x=398 y=155 w=2215 h=2215] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153431.jpg -> skipped RoI [x=219 y=118 w=2116 h=2116] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153431.jpg -> skipped RoI [x=724 y=1506 w=596 h=596] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153441.jpg -> creating RoI from [x=116 y=16 w=2583 h=2583]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153441.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002823.png [f=4.24871 x=116 y=16 w=2583 h=2583] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153441.jpg -> skipped RoI [x=944 y=104 w=819 h=819] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153441.jpg -> skipped RoI [x=1614 y=870 w=1497 h=1497] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153441.jpg -> skipped RoI [x=698 y=756 w=1661 h=1661] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153441.jpg -> creating RoI from [x=2074 y=1050 w=1483 h=1483]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153441.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002824.jpg [f=2.43952 x=2074 y=1050 w=1483 h=1483] -> [608x608] [5/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153441.jpg -> skipped RoI [x=1812 y=100 w=2315 h=2315] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153441.jpg -> skipped RoI [x=1411 y=63 w=2217 h=2217] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153441.jpg -> skipped RoI [x=673 y=1496 w=1055 h=1055] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153441.jpg -> skipped RoI [x=1661 y=460 w=1864 h=1864] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153441.jpg -> skipped RoI [x=1978 y=921 w=1084 h=1084] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153449.jpg -> creating RoI from [x=1383 y=3 w=1072 h=1072]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153449.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002825.jpg [f=1.76245 x=1383 y=3 w=1072 h=1072] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153449.jpg -> creating RoI from [x=1676 y=1348 w=555 h=555]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153449.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002826.jpg [f=0.913232 x=1676 y=1348 w=555 h=555] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153449.jpg-> adding RoI because it includes point-of-interest x=1697 y=1094
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153449.jpg -> creating RoI from [x=914 y=115 w=1347 h=1347]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153449.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002827.png [f=2.21502 x=914 y=115 w=1347 h=1347] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153449.jpg -> creating RoI from [x=2537 y=378 w=1636 h=1636]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153449.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002828.jpg [f=2.6901 x=2537 y=378 w=1636 h=1636] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153449.jpg -> skipped RoI [x=2398 y=758 w=1103 h=1103] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153449.jpg -> skipped RoI [x=718 y=568 w=2027 h=2027] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153449.jpg -> skipped RoI [x=176 y=56 w=2488 h=2488] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153449.jpg -> skipped RoI [x=1829 y=85 w=2429 h=2429] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153449.jpg -> creating RoI from [x=944 y=1137 w=1336 h=1336]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153449.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002829.jpg [f=2.19802 x=944 y=1137 w=1336 h=1336] -> [608x608] [3/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153449.jpg -> skipped RoI [x=1221 y=842 w=1129 h=1129] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153449.jpg -> creating RoI from [x=3943 y=1396 w=650 h=650]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153449.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002830.jpg [f=1.06857 x=3943 y=1396 w=650 h=650] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153449.jpg -> creating RoI from [x=464 y=577 w=782 h=782]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153449.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002831.png [f=1.28681 x=464 y=577 w=782 h=782] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153449.jpg -> skipped RoI [x=608 y=8 w=1696 h=1696] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153449.jpg -> skipped RoI [x=2397 y=392 w=962 h=962] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153449.jpg -> creating RoI from [x=3670 y=1822 w=596 h=596]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153449.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002832.jpg [f=0.979856 x=3670 y=1822 w=596 h=596] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153449.jpg -> creating RoI from [x=30 y=583 w=1734 h=1734]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153449.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002833.png [f=2.85177 x=30 y=583 w=1734 h=1734] -> [608x608] [5/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153449.jpg -> skipped RoI [x=745 y=957 w=1453 h=1453] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153449.jpg -> skipped RoI [x=3264 y=116 w=1333 h=1333] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153449.jpg -> skipped RoI [x=3579 y=167 w=942 h=942] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153449.jpg -> skipped RoI [x=1331 y=431 w=1879 h=1879] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153449.jpg -> skipped RoI [x=1399 y=312 w=854 h=854] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153503.jpg -> creating RoI from [x=1318 y=5 w=2438 h=2438]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153503.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002834.png [f=4.00948 x=1318 y=5 w=2438 h=2438] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153503.jpg -> skipped RoI [x=983 y=112 w=743 h=743] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153503.jpg -> skipped RoI [x=455 y=252 w=2285 h=2285] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153503.jpg -> skipped RoI [x=987 y=582 w=866 h=866] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153503.jpg -> skipped RoI [x=1137 y=443 w=957 h=957] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153503.jpg -> skipped RoI [x=1084 y=23 w=2527 h=2527] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153509.jpg -> creating RoI from [x=1086 y=46 w=2557 h=2557]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153509.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002835.jpg [f=4.20488 x=1086 y=46 w=2557 h=2557] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153509.jpg -> skipped RoI [x=546 y=640 w=1220 h=1220] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153509.jpg -> skipped RoI [x=926 y=394 w=2147 h=2147] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153509.jpg -> skipped RoI [x=862 y=383 w=1098 h=1098] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153509.jpg -> skipped RoI [x=794 y=1209 w=839 h=839] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153509.jpg -> skipped RoI [x=795 y=518 w=1726 h=1726] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153525.jpg -> creating RoI from [x=1997 y=757 w=799 h=799]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153525.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002836.png [f=1.31486 x=1997 y=757 w=799 h=799] -> [608x608] [6/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153525.jpg -> creating RoI from [x=703 y=387 w=1639 h=1639]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153525.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002837.png [f=2.6964 x=703 y=387 w=1639 h=1639] -> [608x608] [5/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153525.jpg -> creating RoI from [x=1874 y=24 w=2507 h=2507]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153525.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002838.jpg [f=4.1231 x=1874 y=24 w=2507 h=2507] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153525.jpg -> skipped RoI [x=1785 y=931 w=1122 h=1122] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153525.jpg -> skipped RoI [x=794 y=612 w=1046 h=1046] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153525.jpg -> skipped RoI [x=1583 y=82 w=689 h=689] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153525.jpg -> skipped RoI [x=2061 y=190 w=2113 h=2113] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153525.jpg -> skipped RoI [x=2278 y=333 w=1876 h=1876] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153534.jpg -> creating RoI from [x=569 y=268 w=2230 h=2230]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153534.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002839.jpg [f=3.66747 x=569 y=268 w=2230 h=2230] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153534.jpg -> creating RoI from [x=2389 y=566 w=2029 h=2029]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153534.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002840.png [f=3.33688 x=2389 y=566 w=2029 h=2029] -> [608x608] [3/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153534.jpg -> skipped RoI [x=493 y=499 w=2070 h=2070] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153534.jpg -> skipped RoI [x=583 y=707 w=546 h=546] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153534.jpg -> skipped RoI [x=1827 y=601 w=1924 h=1924] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153534.jpg -> skipped RoI [x=3062 y=405 w=1194 h=1194] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153534.jpg -> skipped RoI [x=2156 y=564 w=2001 h=2001] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153549.jpg -> creating RoI from [x=2738 y=242 w=1447 h=1447]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153549.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002841.jpg [f=2.37947 x=2738 y=242 w=1447 h=1447] -> [608x608] [1/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153549.jpg -> creating RoI from [x=313 y=427 w=1315 h=1315]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153549.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002842.png [f=2.16234 x=313 y=427 w=1315 h=1315] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153549.jpg-> adding RoI because it includes point-of-interest x=2219 y=810
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153549.jpg -> creating RoI from [x=2177 y=39 w=2238 h=2238]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153549.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002843.jpg [f=3.68171 x=2177 y=39 w=2238 h=2238] -> [608x608] [5/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153549.jpg -> creating RoI from [x=931 y=500 w=1543 h=1543]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153549.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002844.jpg [f=2.53726 x=931 y=500 w=1543 h=1543] -> [608x608] [6/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153549.jpg -> skipped RoI [x=14 y=82 w=2479 h=2479] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153549.jpg -> skipped RoI [x=3000 y=535 w=644 h=644] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153549.jpg -> skipped RoI [x=960 y=600 w=725 h=725] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153549.jpg -> skipped RoI [x=539 y=146 w=2265 h=2265] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153549.jpg -> skipped RoI [x=999 y=519 w=1485 h=1485] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153605.jpg -> creating RoI from [x=2563 y=65 w=741 h=741]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153605.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002845.jpg [f=1.21812 x=2563 y=65 w=741 h=741] -> [608x608] [1/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153605.jpg -> creating RoI from [x=442 y=45 w=2371 h=2371]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153605.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002846.jpg [f=3.89935 x=442 y=45 w=2371 h=2371] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153605.jpg -> creating RoI from [x=2342 y=657 w=1900 h=1900]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153605.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002847.jpg [f=3.12466 x=2342 y=657 w=1900 h=1900] -> [608x608] [3/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153605.jpg -> skipped RoI [x=3102 y=1706 w=891 h=891] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153605.jpg -> skipped RoI [x=2159 y=211 w=1970 h=1970] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153605.jpg -> skipped RoI [x=79 y=77 w=1495 h=1495] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153605.jpg -> skipped RoI [x=280 y=906 w=694 h=694] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153605.jpg -> skipped RoI [x=872 y=528 w=1793 h=1793] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153619.jpg -> creating RoI from [x=2934 y=998 w=1563 h=1563]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153619.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002848.png [f=2.57138 x=2934 y=998 w=1563 h=1563] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153619.jpg -> creating RoI from [x=1372 y=37 w=2434 h=2434]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153619.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002849.png [f=4.00409 x=1372 y=37 w=2434 h=2434] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153619.jpg -> skipped RoI [x=815 y=431 w=1437 h=1437] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153619.jpg -> skipped RoI [x=2942 y=669 w=1175 h=1175] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153619.jpg -> skipped RoI [x=1563 y=1551 w=912 h=912] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153619.jpg -> skipped RoI [x=1828 y=1 w=2602 h=2602] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153619.jpg -> skipped RoI [x=1603 y=240 w=1302 h=1302] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153624.jpg -> creating RoI from [x=2685 y=78 w=573 h=573]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153624.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002850.png [f=0.941882 x=2685 y=78 w=573 h=573] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153624.jpg -> creating RoI from [x=325 y=954 w=1192 h=1192]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153624.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002851.png [f=1.96092 x=325 y=954 w=1192 h=1192] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153624.jpg -> creating RoI from [x=3235 y=587 w=643 h=643]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153624.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002852.jpg [f=1.05838 x=3235 y=587 w=643 h=643] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153624.jpg -> creating RoI from [x=774 y=40 w=1855 h=1855]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153624.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002853.jpg [f=3.05118 x=774 y=40 w=1855 h=1855] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153624.jpg -> creating RoI from [x=1731 y=218 w=2249 h=2249]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153624.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002854.jpg [f=3.69825 x=1731 y=218 w=2249 h=2249] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153624.jpg -> skipped RoI [x=782 y=63 w=2054 h=2054] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153624.jpg -> skipped RoI [x=922 y=421 w=1905 h=1905] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153624.jpg -> skipped RoI [x=674 y=0 w=2493 h=2493] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153624.jpg -> skipped RoI [x=1048 y=1015 w=1391 h=1391] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153624.jpg -> skipped RoI [x=3285 y=660 w=1176 h=1176] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153628.jpg -> creating RoI from [x=2528 y=204 w=1485 h=1485]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153628.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002855.png [f=2.44266 x=2528 y=204 w=1485 h=1485] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153628.jpg -> creating RoI from [x=942 y=876 w=522 h=522]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153628.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002856.png [f=0.858279 x=942 y=876 w=522 h=522] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153628.jpg-> adding RoI because it includes point-of-interest x=1608 y=981
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153628.jpg -> creating RoI from [x=210 y=479 w=1733 h=1733]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153628.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002857.jpg [f=2.85034 x=210 y=479 w=1733 h=1733] -> [608x608] [5/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153628.jpg-> adding RoI because it includes point-of-interest x=2014 y=1036
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153628.jpg -> creating RoI from [x=1946 y=351 w=1451 h=1451]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153628.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002858.png [f=2.38729 x=1946 y=351 w=1451 h=1451] -> [608x608] [4/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153628.jpg -> skipped RoI [x=1790 y=648 w=1715 h=1715] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153628.jpg -> skipped RoI [x=1976 y=11 w=2244 h=2244] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153628.jpg -> skipped RoI [x=744 y=193 w=1375 h=1375] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153628.jpg -> skipped RoI [x=1287 y=197 w=2360 h=2360] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153628.jpg -> skipped RoI [x=1840 y=323 w=736 h=736] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153659.jpg -> creating RoI from [x=2470 y=226 w=1423 h=1423]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153659.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002859.jpg [f=2.34008 x=2470 y=226 w=1423 h=1423] -> [608x608] [1/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153659.jpg -> creating RoI from [x=3209 y=950 w=1389 h=1389]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153659.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002860.png [f=2.285 x=3209 y=950 w=1389 h=1389] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153659.jpg -> creating RoI from [x=361 y=300 w=1642 h=1642]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153659.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002861.png [f=2.70135 x=361 y=300 w=1642 h=1642] -> [608x608] [4/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153659.jpg-> adding RoI because it includes point-of-interest x=2082 y=1021
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153659.jpg -> creating RoI from [x=972 y=460 w=1472 h=1472]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153659.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002862.png [f=2.42163 x=972 y=460 w=1472 h=1472] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153659.jpg -> skipped RoI [x=273 y=28 w=1792 h=1792] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153659.jpg -> skipped RoI [x=358 y=478 w=1932 h=1932] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153659.jpg -> skipped RoI [x=193 y=848 w=1508 h=1508] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153659.jpg -> creating RoI from [x=3985 y=582 w=636 h=636]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153659.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002863.jpg [f=1.04536 x=3985 y=582 w=636 h=636] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153659.jpg-> adding RoI because it includes point-of-interest x=2469 y=1077
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153659.jpg -> creating RoI from [x=2010 y=146 w=1868 h=1868]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153659.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002864.png [f=3.07159 x=2010 y=146 w=1868 h=1868] -> [608x608] [5/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153659.jpg -> skipped RoI [x=700 y=379 w=1565 h=1565] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153659.jpg -> skipped RoI [x=1760 y=614 w=1884 h=1884] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153659.jpg -> skipped RoI [x=681 y=1193 w=569 h=569] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153659.jpg -> skipped RoI [x=768 y=9 w=1774 h=1774] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_153659.jpg -> skipped RoI [x=2099 y=66 w=2464 h=2464] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154422.jpg -> creating RoI from [x=2275 y=164 w=2343 h=2343]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154422.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002865.png [f=3.85372 x=2275 y=164 w=2343 h=2343] -> [608x608] [2/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154422.jpg -> skipped RoI [x=2894 y=238 w=1549 h=1549] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154422.jpg -> creating RoI from [x=1074 y=774 w=944 h=944]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154422.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002866.jpg [f=1.55189 x=1074 y=774 w=944 h=944] -> [608x608] [5/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154422.jpg -> skipped RoI [x=3186 y=749 w=554 h=554] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154422.jpg -> skipped RoI [x=2347 y=21 w=1888 h=1888] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154422.jpg-> adding RoI because it includes point-of-interest x=2021 y=1011
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154422.jpg -> creating RoI from [x=486 y=420 w=1947 h=1947]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154422.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002867.png [f=3.20182 x=486 y=420 w=1947 h=1947] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154422.jpg -> skipped RoI [x=1212 y=376 w=2095 h=2095] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154422.jpg -> skipped RoI [x=2567 y=89 w=1528 h=1528] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154422.jpg -> skipped RoI [x=534 y=24 w=2477 h=2477] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154422.jpg -> skipped RoI [x=766 y=514 w=1640 h=1640] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154422.jpg -> skipped RoI [x=1795 y=493 w=1226 h=1226] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154449.jpg -> creating RoI from [x=1447 y=112 w=2407 h=2407]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154449.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002868.jpg [f=3.9583 x=1447 y=112 w=2407 h=2407] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154449.jpg -> skipped RoI [x=2023 y=521 w=1555 h=1555] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154449.jpg -> skipped RoI [x=1120 y=516 w=1502 h=1502] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154449.jpg -> skipped RoI [x=2779 y=1285 w=1196 h=1196] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154449.jpg -> skipped RoI [x=702 y=520 w=1621 h=1621] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154449.jpg -> skipped RoI [x=1877 y=264 w=1833 h=1833] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154723.jpg -> creating RoI from [x=1214 y=59 w=2160 h=2160]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154723.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002869.png [f=3.55189 x=1214 y=59 w=2160 h=2160] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154723.jpg -> creating RoI from [x=267 y=636 w=1750 h=1750]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154723.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002870.png [f=2.87873 x=267 y=636 w=1750 h=1750] -> [608x608] [2/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154723.jpg -> skipped RoI [x=1398 y=153 w=649 h=649] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154723.jpg -> skipped RoI [x=809 y=937 w=1660 h=1660] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154723.jpg -> skipped RoI [x=386 y=916 w=708 h=708] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154723.jpg -> skipped RoI [x=995 y=479 w=1921 h=1921] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154723.jpg -> skipped RoI [x=1239 y=787 w=1210 h=1210] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154726.jpg -> creating RoI from [x=2304 y=399 w=1675 h=1675]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154726.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002871.png [f=2.75495 x=2304 y=399 w=1675 h=1675] -> [608x608] [5/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154726.jpg -> skipped RoI [x=1817 y=1211 w=994 h=994] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154726.jpg -> creating RoI from [x=808 y=1070 w=899 h=899]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154726.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002872.png [f=1.47913 x=808 y=1070 w=899 h=899] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154726.jpg-> adding RoI because it includes point-of-interest x=1987 y=653
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154726.jpg -> creating RoI from [x=1874 y=284 w=1551 h=1551]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154726.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002873.jpg [f=2.55038 x=1874 y=284 w=1551 h=1551] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154726.jpg -> skipped RoI [x=3189 y=1609 w=864 h=864] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154726.jpg -> creating RoI from [x=998 y=374 w=1095 h=1095]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154726.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002874.jpg [f=1.80097 x=998 y=374 w=1095 h=1095] -> [608x608] [3/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154726.jpg -> skipped RoI [x=2731 y=436 w=645 h=645] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154726.jpg -> skipped RoI [x=668 y=1043 w=1023 h=1023] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154726.jpg -> skipped RoI [x=2634 y=899 w=1582 h=1582] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154726.jpg -> skipped RoI [x=2102 y=326 w=2264 h=2264] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154726.jpg -> skipped RoI [x=1971 y=179 w=2033 h=2033] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154730.jpg -> creating RoI from [x=463 y=67 w=1706 h=1706]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154730.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002875.png [f=2.80539 x=463 y=67 w=1706 h=1706] -> [608x608] [3/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154730.jpg -> creating RoI from [x=126 y=1915 w=527 h=527]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154730.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002876.png [f=0.866527 x=126 y=1915 w=527 h=527] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154730.jpg -> creating RoI from [x=1336 y=463 w=1853 h=1853]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154730.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002877.jpg [f=3.04708 x=1336 y=463 w=1853 h=1853] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154730.jpg -> creating RoI from [x=2716 y=662 w=1728 h=1728]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154730.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002878.png [f=2.84202 x=2716 y=662 w=1728 h=1728] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154730.jpg -> creating RoI from [x=407 y=1348 w=921 h=921]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154730.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002879.jpg [f=1.51517 x=407 y=1348 w=921 h=921] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154730.jpg -> skipped RoI [x=2988 y=705 w=996 h=996] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154730.jpg -> skipped RoI [x=480 y=412 w=1933 h=1933] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154730.jpg -> skipped RoI [x=942 y=40 w=1382 h=1382] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154730.jpg -> skipped RoI [x=1562 y=39 w=1870 h=1870] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154730.jpg -> skipped RoI [x=3029 y=148 w=1421 h=1421] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154806.jpg -> creating RoI from [x=718 y=561 w=1407 h=1407]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154806.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002880.jpg [f=2.31468 x=718 y=561 w=1407 h=1407] -> [608x608] [4/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154806.jpg -> skipped RoI [x=415 y=642 w=1610 h=1610] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154806.jpg-> adding RoI because it includes point-of-interest x=2187 y=1323
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154806.jpg -> creating RoI from [x=1039 y=121 w=2047 h=2047]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154806.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002881.jpg [f=3.36661 x=1039 y=121 w=2047 h=2047] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154806.jpg -> skipped RoI [x=1193 y=1500 w=832 h=832] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154806.jpg -> skipped RoI [x=1230 y=753 w=953 h=953] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154806.jpg -> skipped RoI [x=1806 y=380 w=1003 h=1003] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154806.jpg -> skipped RoI [x=2631 y=942 w=569 h=569] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154806.jpg -> skipped RoI [x=688 y=425 w=1631 h=1631] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154811.jpg -> creating RoI from [x=622 y=445 w=1928 h=1928]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154811.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002882.jpg [f=3.17075 x=622 y=445 w=1928 h=1928] -> [608x608] [5/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154811.jpg-> adding RoI because it includes point-of-interest x=2559 y=1158
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154811.jpg -> creating RoI from [x=1410 y=147 w=2148 h=2148]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154811.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002883.jpg [f=3.53264 x=1410 y=147 w=2148 h=2148] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154811.jpg -> skipped RoI [x=1180 y=561 w=1795 h=1795] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154811.jpg -> skipped RoI [x=391 y=1152 w=506 h=506] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154811.jpg -> skipped RoI [x=310 y=330 w=1931 h=1931] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154811.jpg -> skipped RoI [x=1882 y=457 w=1836 h=1836] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154811.jpg -> creating RoI from [x=121 y=1115 w=491 h=491]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154811.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002884.png [f=0.807881 x=121 y=1115 w=491 h=491] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154811.jpg -> skipped RoI [x=981 y=324 w=1744 h=1744] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154811.jpg -> skipped RoI [x=896 y=406 w=1969 h=1969] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154811.jpg -> creating RoI from [x=3076 y=1442 w=1090 h=1090]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154811.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002885.jpg [f=1.79198 x=3076 y=1442 w=1090 h=1090] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154811.jpg -> skipped RoI [x=1358 y=125 w=2219 h=2219] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154811.jpg -> skipped RoI [x=1967 y=337 w=2159 h=2159] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154811.jpg -> skipped RoI [x=396 y=29 w=2529 h=2529] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154811.jpg -> skipped RoI [x=741 y=500 w=1969 h=1969] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154811.jpg -> skipped RoI [x=1032 y=675 w=730 h=730] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154820.jpg -> creating RoI from [x=1727 y=27 w=2567 h=2567]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154820.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002886.png [f=4.22214 x=1727 y=27 w=2567 h=2567] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154820.jpg-> adding RoI because it includes point-of-interest x=1726 y=1218
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154820.jpg -> creating RoI from [x=1504 y=535 w=1272 h=1272]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154820.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002887.jpg [f=2.09134 x=1504 y=535 w=1272 h=1272] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154820.jpg -> skipped RoI [x=1893 y=1926 w=613 h=613] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154820.jpg -> skipped RoI [x=1190 y=200 w=2353 h=2353] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154820.jpg -> creating RoI from [x=260 y=85 w=2409 h=2409]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154820.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002888.png [f=3.96213 x=260 y=85 w=2409 h=2409] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154820.jpg -> skipped RoI [x=1990 y=298 w=2231 h=2231] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154820.jpg -> skipped RoI [x=2259 y=890 w=648 h=648] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154820.jpg -> skipped RoI [x=80 y=363 w=1644 h=1644] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154820.jpg -> skipped RoI [x=1571 y=22 w=2460 h=2460] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154820.jpg -> skipped RoI [x=967 y=233 w=2327 h=2327] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154841.jpg -> creating RoI from [x=306 y=1520 w=862 h=862]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154841.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002889.png [f=1.41839 x=306 y=1520 w=862 h=862] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154841.jpg -> creating RoI from [x=1699 y=69 w=2361 h=2361]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154841.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002890.png [f=3.88248 x=1699 y=69 w=2361 h=2361] -> [608x608] [6/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154841.jpg -> skipped RoI [x=2355 y=194 w=1359 h=1359] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154841.jpg-> adding RoI because it includes point-of-interest x=1553 y=784
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154841.jpg -> creating RoI from [x=843 y=130 w=2416 h=2416]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154841.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002891.jpg [f=3.97358 x=843 y=130 w=2416 h=2416] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154841.jpg -> skipped RoI [x=2401 y=902 w=1457 h=1457] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154841.jpg -> skipped RoI [x=1953 y=215 w=1676 h=1676] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154841.jpg -> skipped RoI [x=1628 y=395 w=2133 h=2133] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154841.jpg -> creating RoI from [x=32 y=590 w=816 h=816]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154841.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002892.png [f=1.34128 x=32 y=590 w=816 h=816] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154841.jpg -> skipped RoI [x=507 y=590 w=491 h=491] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154841.jpg -> skipped RoI [x=1708 y=179 w=2370 h=2370] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154841.jpg -> skipped RoI [x=1443 y=261 w=2223 h=2223] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154841.jpg -> skipped RoI [x=2023 y=376 w=1933 h=1933] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154841.jpg -> skipped RoI [x=718 y=672 w=752 h=752] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154844.jpg -> creating RoI from [x=1001 y=404 w=2095 h=2095]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154844.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002893.jpg [f=3.44536 x=1001 y=404 w=2095 h=2095] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154844.jpg -> creating RoI from [x=3018 y=725 w=1505 h=1505]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154844.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002894.png [f=2.47523 x=3018 y=725 w=1505 h=1505] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154844.jpg -> skipped RoI [x=2044 y=109 w=884 h=884] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154844.jpg -> skipped RoI [x=1078 y=41 w=2193 h=2193] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154844.jpg -> skipped RoI [x=1833 y=528 w=1844 h=1844] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154844.jpg -> skipped RoI [x=1440 y=6 w=1843 h=1843] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154844.jpg -> skipped RoI [x=1074 y=254 w=1566 h=1566] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154850.jpg -> creating RoI from [x=387 y=14 w=2494 h=2494]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154850.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002895.png [f=4.10161 x=387 y=14 w=2494 h=2494] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154850.jpg -> skipped RoI [x=1266 y=280 w=2128 h=2128] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154850.jpg -> creating RoI from [x=2945 y=488 w=1128 h=1128]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154850.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002896.jpg [f=1.85538 x=2945 y=488 w=1128 h=1128] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154850.jpg -> skipped RoI [x=410 y=1418 w=740 h=740] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154850.jpg -> creating RoI from [x=3117 y=1555 w=735 h=735]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154850.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002897.jpg [f=1.2082 x=3117 y=1555 w=735 h=735] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154850.jpg -> skipped RoI [x=1609 y=38 w=2108 h=2108] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154850.jpg -> skipped RoI [x=1066 y=81 w=2419 h=2419] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154850.jpg -> skipped RoI [x=1851 y=573 w=1389 h=1389] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154850.jpg -> skipped RoI [x=1181 y=62 w=2206 h=2206] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154850.jpg -> skipped RoI [x=3044 y=1177 w=1198 h=1198] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154855.jpg -> creating RoI from [x=2149 y=0 w=2080 h=2080]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154855.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002898.png [f=3.421 x=2149 y=0 w=2080 h=2080] -> [608x608] [4/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154855.jpg -> creating RoI from [x=1859 y=1412 w=557 h=557]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154855.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002899.png [f=0.916143 x=1859 y=1412 w=557 h=557] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154855.jpg -> creating RoI from [x=1208 y=179 w=1823 h=1823]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154855.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002900.jpg [f=2.99817 x=1208 y=179 w=1823 h=1823] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154855.jpg -> skipped RoI [x=2592 y=415 w=1827 h=1827] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154855.jpg -> skipped RoI [x=2864 y=826 w=614 h=614] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154855.jpg -> skipped RoI [x=2363 y=858 w=876 h=876] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154855.jpg -> skipped RoI [x=1978 y=8 w=2467 h=2467] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_154855.jpg -> skipped RoI [x=783 y=119 w=2471 h=2471] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155049.jpg -> creating RoI from [x=1344 y=137 w=1646 h=1646]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155049.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002901.png [f=2.70743 x=1344 y=137 w=1646 h=1646] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155049.jpg -> creating RoI from [x=2964 y=680 w=846 h=846]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155049.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002902.png [f=1.39076 x=2964 y=680 w=846 h=846] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155049.jpg -> creating RoI from [x=107 y=230 w=1124 h=1124]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155049.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002903.png [f=1.84879 x=107 y=230 w=1124 h=1124] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155049.jpg -> skipped RoI [x=642 y=910 w=599 h=599] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155049.jpg -> skipped RoI [x=363 y=445 w=1391 h=1391] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155049.jpg -> skipped RoI [x=2044 y=12 w=2554 h=2554] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155049.jpg -> skipped RoI [x=169 y=60 w=2385 h=2385] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155049.jpg -> skipped RoI [x=724 y=9 w=2595 h=2595] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155057.jpg -> creating RoI from [x=1516 y=1729 w=636 h=636]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155057.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002904.png [f=1.04585 x=1516 y=1729 w=636 h=636] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155057.jpg -> creating RoI from [x=1784 y=493 w=1965 h=1965]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155057.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002905.png [f=3.23218 x=1784 y=493 w=1965 h=1965] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155057.jpg -> skipped RoI [x=2682 y=939 w=876 h=876] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155057.jpg -> creating RoI from [x=49 y=20 w=1726 h=1726]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155057.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002906.png [f=2.83955 x=49 y=20 w=1726 h=1726] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155057.jpg -> skipped RoI [x=1747 y=1430 w=1111 h=1111] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155057.jpg -> skipped RoI [x=1119 y=147 w=2333 h=2333] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155057.jpg -> skipped RoI [x=1789 y=518 w=1953 h=1953] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155057.jpg -> skipped RoI [x=1382 y=65 w=2103 h=2103] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155057.jpg -> skipped RoI [x=594 y=228 w=723 h=723] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155111.jpg -> creating RoI from [x=19 y=44 w=2549 h=2549]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155111.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002907.png [f=4.19254 x=19 y=44 w=2549 h=2549] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155111.jpg-> adding RoI because it includes point-of-interest x=2634 y=809
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155111.jpg -> creating RoI from [x=225 y=14 w=2497 h=2497]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155111.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002908.png [f=4.10677 x=225 y=14 w=2497 h=2497] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155111.jpg -> creating RoI from [x=2163 y=339 w=2081 h=2081]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155111.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002909.png [f=3.42204 x=2163 y=339 w=2081 h=2081] -> [608x608] [5/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155111.jpg -> skipped RoI [x=1693 y=985 w=1491 h=1491] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155111.jpg -> skipped RoI [x=1869 y=311 w=904 h=904] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155111.jpg -> skipped RoI [x=157 y=1431 w=1013 h=1013] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155111.jpg -> skipped RoI [x=1701 y=41 w=2465 h=2465] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155111.jpg -> skipped RoI [x=1213 y=154 w=2346 h=2346] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155139.jpg -> creating RoI from [x=1532 y=584 w=659 h=659]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155139.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002910.jpg [f=1.08336 x=1532 y=584 w=659 h=659] -> [608x608] [5/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155139.jpg -> creating RoI from [x=1474 y=169 w=2387 h=2387]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155139.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002911.png [f=3.9266 x=1474 y=169 w=2387 h=2387] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155139.jpg -> skipped RoI [x=1969 y=13 w=2542 h=2542] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155139.jpg -> creating RoI from [x=179 y=54 w=2548 h=2548]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155139.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002912.jpg [f=4.1909 x=179 y=54 w=2548 h=2548] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155139.jpg -> skipped RoI [x=114 y=1131 w=872 h=872] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155139.jpg -> skipped RoI [x=2602 y=1333 w=805 h=805] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155139.jpg -> skipped RoI [x=1138 y=951 w=903 h=903] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155139.jpg -> skipped RoI [x=1417 y=328 w=859 h=859] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155139.jpg -> creating RoI from [x=3623 y=370 w=535 h=535]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155139.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002913.png [f=0.879552 x=3623 y=370 w=535 h=535] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155139.jpg -> skipped RoI [x=1793 y=11 w=2337 h=2337] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155139.jpg -> skipped RoI [x=595 y=466 w=2065 h=2065] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155139.jpg -> skipped RoI [x=1818 y=176 w=960 h=960] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155139.jpg -> skipped RoI [x=2921 y=364 w=1544 h=1544] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155139.jpg -> skipped RoI [x=2301 y=1815 w=721 h=721] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155153.jpg -> creating RoI from [x=1398 y=68 w=2481 h=2481]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155153.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002914.jpg [f=4.08057 x=1398 y=68 w=2481 h=2481] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155153.jpg -> skipped RoI [x=1322 y=222 w=1505 h=1505] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155153.jpg -> skipped RoI [x=1331 y=886 w=1684 h=1684] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155153.jpg -> skipped RoI [x=1061 y=34 w=2384 h=2384] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155153.jpg -> skipped RoI [x=1841 y=305 w=2219 h=2219] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155153.jpg -> skipped RoI [x=2477 y=103 w=1469 h=1469] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155207.jpg -> creating RoI from [x=2524 y=794 w=1239 h=1239]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155207.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002915.png [f=2.03855 x=2524 y=794 w=1239 h=1239] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155207.jpg-> adding RoI because it includes point-of-interest x=1707 y=692
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155207.jpg -> creating RoI from [x=1674 y=249 w=1948 h=1948]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155207.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002916.png [f=3.2044 x=1674 y=249 w=1948 h=1948] -> [608x608] [5/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155207.jpg -> skipped RoI [x=2338 y=1293 w=1188 h=1188] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155207.jpg-> adding RoI because it includes point-of-interest x=1495 y=684
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155207.jpg -> creating RoI from [x=1264 y=209 w=2151 h=2151]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155207.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002917.jpg [f=3.53739 x=1264 y=209 w=2151 h=2151] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155207.jpg -> skipped RoI [x=1754 y=649 w=1277 h=1277] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155207.jpg -> skipped RoI [x=2500 y=262 w=964 h=964] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155207.jpg -> skipped RoI [x=1446 y=786 w=1331 h=1331] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155207.jpg -> skipped RoI [x=2425 y=437 w=737 h=737] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155207.jpg -> skipped RoI [x=662 y=203 w=2383 h=2383] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155213.jpg -> creating RoI from [x=2731 y=138 w=1623 h=1623]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155213.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002918.png [f=2.66981 x=2731 y=138 w=1623 h=1623] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155213.jpg -> creating RoI from [x=1073 y=171 w=2024 h=2024]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155213.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002919.png [f=3.32931 x=1073 y=171 w=2024 h=2024] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155213.jpg -> skipped RoI [x=2616 y=1680 w=636 h=636] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155213.jpg -> skipped RoI [x=2647 y=116 w=1250 h=1250] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155213.jpg -> skipped RoI [x=1901 y=760 w=927 h=927] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155213.jpg -> skipped RoI [x=1454 y=411 w=1549 h=1549] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155213.jpg -> skipped RoI [x=704 y=515 w=1770 h=1770] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155222.jpg -> creating RoI from [x=940 y=113 w=2191 h=2191]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155222.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002920.png [f=3.60368 x=940 y=113 w=2191 h=2191] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155222.jpg -> skipped RoI [x=576 y=58 w=2415 h=2415] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155222.jpg -> skipped RoI [x=409 y=265 w=1812 h=1812] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155222.jpg -> creating RoI from [x=3047 y=1012 w=1452 h=1452]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155222.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002921.png [f=2.38757 x=3047 y=1012 w=1452 h=1452] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155222.jpg -> creating RoI from [x=71 y=415 w=1653 h=1653]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155222.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002922.png [f=2.71894 x=71 y=415 w=1653 h=1653] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155222.jpg -> skipped RoI [x=2977 y=697 w=956 h=956] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155222.jpg -> skipped RoI [x=3854 y=1300 w=720 h=720] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155222.jpg -> skipped RoI [x=1372 y=68 w=2428 h=2428] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155222.jpg -> skipped RoI [x=1228 y=19 w=1949 h=1949] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155222.jpg -> skipped RoI [x=2880 y=272 w=1721 h=1721] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155227.jpg -> creating RoI from [x=1704 y=822 w=1568 h=1568]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155227.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002923.jpg [f=2.57876 x=1704 y=822 w=1568 h=1568] -> [608x608] [6/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155227.jpg -> skipped RoI [x=2851 y=569 w=768 h=768] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155227.jpg -> creating RoI from [x=103 y=982 w=1480 h=1480]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155227.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002924.jpg [f=2.43442 x=103 y=982 w=1480 h=1480] -> [608x608] [2/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155227.jpg -> skipped RoI [x=2290 y=952 w=1521 h=1521] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155227.jpg-> adding RoI because it includes point-of-interest x=1683 y=990
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155227.jpg -> creating RoI from [x=1055 y=4 w=2494 h=2494]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155227.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002925.png [f=4.10209 x=1055 y=4 w=2494 h=2494] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155227.jpg -> skipped RoI [x=231 y=725 w=1232 h=1232] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155227.jpg -> skipped RoI [x=1076 y=741 w=732 h=732] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155227.jpg -> skipped RoI [x=1921 y=1396 w=629 h=629] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155227.jpg -> skipped RoI [x=322 y=293 w=2130 h=2130] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155227.jpg -> skipped RoI [x=2614 y=311 w=535 h=535] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155234.jpg -> creating RoI from [x=1105 y=242 w=2235 h=2235]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155234.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002926.png [f=3.67622 x=1105 y=242 w=2235 h=2235] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155234.jpg -> skipped RoI [x=967 y=47 w=2465 h=2465] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155234.jpg -> skipped RoI [x=1778 y=737 w=1472 h=1472] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155234.jpg -> skipped RoI [x=2394 y=350 w=1228 h=1228] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155234.jpg -> skipped RoI [x=1572 y=1229 w=982 h=982] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155234.jpg -> skipped RoI [x=1772 y=138 w=1914 h=1914] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155245.jpg -> creating RoI from [x=727 y=1235 w=842 h=842]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155245.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002927.png [f=1.38484 x=727 y=1235 w=842 h=842] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155245.jpg -> creating RoI from [x=2479 y=1031 w=657 h=657]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155245.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002928.png [f=1.07989 x=2479 y=1031 w=657 h=657] -> [608x608] [4/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155245.jpg -> creating RoI from [x=2011 y=271 w=2272 h=2272]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155245.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002929.png [f=3.73661 x=2011 y=271 w=2272 h=2272] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155245.jpg -> skipped RoI [x=1703 y=678 w=1567 h=1567] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155245.jpg -> creating RoI from [x=1003 y=982 w=1620 h=1620]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155245.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002930.png [f=2.66368 x=1003 y=982 w=1620 h=1620] -> [608x608] [6/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155245.jpg -> skipped RoI [x=1328 y=8 w=2344 h=2344] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155245.jpg -> skipped RoI [x=1183 y=285 w=2067 h=2067] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155245.jpg -> skipped RoI [x=240 y=93 w=2469 h=2469] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155245.jpg -> skipped RoI [x=2875 y=1137 w=1111 h=1111] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155245.jpg -> skipped RoI [x=2588 y=334 w=1748 h=1748] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155807.jpg -> creating RoI from [x=122 y=538 w=2014 h=2014]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155807.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002931.png [f=3.31245 x=122 y=538 w=2014 h=2014] -> [608x608] [6/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155807.jpg -> skipped RoI [x=564 y=1013 w=1078 h=1078] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155807.jpg -> creating RoI from [x=2468 y=1308 w=1043 h=1043]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155807.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002932.png [f=1.71568 x=2468 y=1308 w=1043 h=1043] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155807.jpg -> skipped RoI [x=330 y=1134 w=674 h=674] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155807.jpg -> creating RoI from [x=2497 y=36 w=2011 h=2011]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155807.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002933.png [f=3.30767 x=2497 y=36 w=2011 h=2011] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155807.jpg -> skipped RoI [x=2824 y=1205 w=791 h=791] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155807.jpg-> adding RoI because it includes point-of-interest x=2181 y=768
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155807.jpg -> creating RoI from [x=1446 y=25 w=2503 h=2503]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155807.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002934.jpg [f=4.11705 x=1446 y=25 w=2503 h=2503] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155807.jpg -> skipped RoI [x=729 y=1552 w=858 h=858] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155807.jpg -> skipped RoI [x=1545 y=186 w=1992 h=1992] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155807.jpg -> skipped RoI [x=92 y=1121 w=1371 h=1371] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155807.jpg -> skipped RoI [x=2030 y=263 w=2280 h=2280] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_155807.jpg -> skipped RoI [x=734 y=958 w=1492 h=1492] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160015.jpg -> creating RoI from [x=1348 y=350 w=1489 h=1489]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160015.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002935.jpg [f=2.44922 x=1348 y=350 w=1489 h=1489] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160015.jpg -> skipped RoI [x=702 y=156 w=2417 h=2417] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160015.jpg -> creating RoI from [x=56 y=435 w=570 h=570]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160015.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002936.jpg [f=0.93781 x=56 y=435 w=570 h=570] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160015.jpg -> creating RoI from [x=2263 y=543 w=2033 h=2033]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160015.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002937.png [f=3.34391 x=2263 y=543 w=2033 h=2033] -> [608x608] [6/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160015.jpg -> creating RoI from [x=572 y=780 w=490 h=490]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160015.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002938.png [f=0.806246 x=572 y=780 w=490 h=490] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160015.jpg -> skipped RoI [x=2809 y=355 w=978 h=978] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160015.jpg -> skipped RoI [x=2260 y=183 w=994 h=994] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160015.jpg -> skipped RoI [x=1474 y=192 w=2315 h=2315] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160015.jpg -> skipped RoI [x=1563 y=796 w=663 h=663] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160015.jpg -> skipped RoI [x=2611 y=55 w=1357 h=1357] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160457.jpg -> creating RoI from [x=2480 y=1043 w=1550 h=1550]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160457.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002939.png [f=2.55001 x=2480 y=1043 w=1550 h=1550] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160457.jpg -> creating RoI from [x=74 y=1798 w=490 h=490]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160457.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002940.png [f=0.805184 x=74 y=1798 w=490 h=490] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160457.jpg -> creating RoI from [x=570 y=930 w=1625 h=1625]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160457.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002941.png [f=2.67214 x=570 y=930 w=1625 h=1625] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160457.jpg -> skipped RoI [x=2422 y=457 w=2061 h=2061] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160457.jpg-> adding RoI because it includes point-of-interest x=1611 y=895
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160457.jpg -> creating RoI from [x=96 y=366 w=2114 h=2114]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160457.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002942.png [f=3.47678 x=96 y=366 w=2114 h=2114] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160457.jpg -> skipped RoI [x=2484 y=841 w=924 h=924] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160457.jpg -> skipped RoI [x=362 y=581 w=1938 h=1938] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160457.jpg -> skipped RoI [x=1094 y=138 w=1819 h=1819] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160457.jpg -> skipped RoI [x=184 y=920 w=861 h=861] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160457.jpg -> skipped RoI [x=1116 y=367 w=1932 h=1932] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160526.jpg -> creating RoI from [x=610 y=17 w=1627 h=1627]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160526.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002943.jpg [f=2.67526 x=610 y=17 w=1627 h=1627] -> [608x608] [0/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160526.jpg-> adding RoI because it includes point-of-interest x=2739 y=1201
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160526.jpg -> creating RoI from [x=817 y=99 w=2374 h=2374]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160526.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002944.jpg [f=3.90498 x=817 y=99 w=2374 h=2374] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160526.jpg -> skipped RoI [x=965 y=130 w=2419 h=2419] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160526.jpg -> skipped RoI [x=911 y=352 w=571 h=571] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160526.jpg -> creating RoI from [x=2362 y=388 w=1763 h=1763]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160526.jpg [4624x2604] -> /home/gflores/src/DarkPlate/nn/darkmark_image_cache/zoom/00002945.png [f=2.89961 x=2362 y=388 w=1763 h=1763] -> [608x608] [7/7]
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160526.jpg -> skipped RoI [x=315 y=116 w=2420 h=2420] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160526.jpg -> skipped RoI [x=1229 y=936 w=1415 h=1415] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160526.jpg -> skipped RoI [x=573 y=4 w=2591 h=2591] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160526.jpg -> skipped RoI [x=1692 y=284 w=2296 h=2296] due to overlap
+/home/gflores/src/DarkPlate/nn/set_02/20240731_160526.jpg -> skipped RoI [x=2016 y=6 w=2497 h=2497] due to overlap
